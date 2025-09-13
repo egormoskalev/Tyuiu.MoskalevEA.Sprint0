@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.DatskiyDE.Sprint0.Task5.V0.Lib
+namespace Tyuiu.MoskalevEA.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {

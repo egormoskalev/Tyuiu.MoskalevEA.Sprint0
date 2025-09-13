@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Tyuiu.MoskalevEA.Sprint0.Task4.V0.Lib;
 
-namespace Tyuiu.DatskiyDE.Sprint0.Task4.V0
+namespace Tyuiu.MoskalevEA.Sprint0.Task4.V0
 {
     class Programm
     {

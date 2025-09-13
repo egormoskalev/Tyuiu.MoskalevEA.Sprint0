@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace Tyuiu.DatskiyDE.Sprint0.Task6.V0.Lib
+namespace Tyuiu.MoskalevEA.Sprint0.Task6.V0.Lib
 {
     public class DataService
     {

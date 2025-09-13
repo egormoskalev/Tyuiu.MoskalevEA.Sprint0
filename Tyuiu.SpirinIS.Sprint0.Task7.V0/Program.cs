@@ -3,22 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.DatskiyDE.Sprint0.Task7.V0.Lib;
+using Tyuiu.MoskalevEA.Sprint0.Task7.V0.Lib;
 
-namespace Tyuiu.DatskiyDE.Sprint0.Task7.V0
+namespace Tyuiu.MoskalevEA.Sprint0.Task7.V0
 {
     class Programm
     {
         static void Main(string[] args)
         {
 
-            Console.Title = "Спринт #0 | Выполнил: Дацкий Д. Е. | ИСПб-25-1";
+            Console.Title = "Спринт #0 | Выполнил: Москалев Е. А. | ИСПб-25-1";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #0                                                              *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                            *");
             Console.WriteLine("* Задание #7                                                             *");
             Console.WriteLine("* Вариант #0                                                             *");
-            Console.WriteLine("* Выполнил: Дацкий Денис Евгеньевич. | ИСПб-25-1                        *");
+            Console.WriteLine("* Выполнил:Москалев Егор Александрович. | ИСПб-25-1                        *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                               *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух   *");
